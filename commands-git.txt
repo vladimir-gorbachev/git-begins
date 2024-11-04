@@ -1,1 +1,12 @@
-comment push etc etc
+git clone url = cloner un repo distant
+
+git add . = (ajouter)
+
+git commit -m "message" = décrire le commit
+
+git push = envoyer
+
+git checkout -b "my_branch" = créer une nouvelle branche
+
+git switch -b "my branch" = changer de branche localement 
+
