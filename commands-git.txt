@@ -10,3 +10,4 @@ git checkout -b "my_branch" = créer une nouvelle branche
 
 git switch -b "my branch" = changer de branche localement 
 
+git pull
